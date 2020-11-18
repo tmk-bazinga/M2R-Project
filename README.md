@@ -39,3 +39,5 @@ NB. Whilst each member of the group focused on particular subsections or section
 ### Written Report
 
 • M2R_Project_Report.pdf
+
+All other datasets or code created by the group (even if not used in the final written report) can be found at https://github.com/ArthurLimoge/M2R-Research-Project-Stochastic-Processes-Finance
