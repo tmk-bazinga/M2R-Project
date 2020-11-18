@@ -2,7 +2,7 @@
 Compulsory group project done in 2nd year. This consisted of 
 
 
-##Supervisor
+#Supervisor
 [Dr. Andreas Sojmark](https://www.imperial.ac.uk/people/a.sojmark)
-##Group members
+#Group members
 ...
